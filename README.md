@@ -6,4 +6,4 @@ The purpose of this analysis was to analyze NYC Citibike data to support a simil
 
 ## Results
 2.3M rides were analyzed:
-[!](https://github.com/JonathanBrown003/bikesharing/blob/250023d8cf0f56d05424760765b0f3b8032f8363/Resources/TotalNumber.PNG)
+![](https://github.com/JonathanBrown003/bikesharing/blob/250023d8cf0f56d05424760765b0f3b8032f8363/Resources/TotalNumber.PNG)
